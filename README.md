@@ -6,3 +6,4 @@ remote commit 1
 Merge conflict
 
 local continue main
+local again continue main
