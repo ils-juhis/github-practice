@@ -6,3 +6,4 @@ remote commit 1
 Merge conflict
 
 feature 1
+feature 2
