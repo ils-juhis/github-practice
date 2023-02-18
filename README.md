@@ -7,3 +7,8 @@ Merge conflict
 
 local continue main
 local again continue main
+
+feature 1
+feature 2
+feature 3
+feature 4
