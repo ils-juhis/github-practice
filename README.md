@@ -15,3 +15,5 @@ feature 4
 
 remote sub-feature
 local sub-feature
+
+local continue main
