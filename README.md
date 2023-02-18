@@ -23,3 +23,5 @@ again continue in main
 
 rebase feature 1
 rebase feature 2
+
+main continue
