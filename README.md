@@ -20,3 +20,4 @@ feature2 1
 local continue main
 
 rebase feature 1
+rebase feature 2
