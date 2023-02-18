@@ -17,7 +17,9 @@ remote sub-feature
 local sub-feature
 
 feature2 1
+
 local continue main
+again continue in main
 
 rebase feature 1
 rebase feature 2
