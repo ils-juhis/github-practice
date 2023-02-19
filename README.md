@@ -30,3 +30,6 @@ main continue
 New commit for fetch
 
 data after stashing
+
+squash 1
+squash 3
