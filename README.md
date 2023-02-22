@@ -33,5 +33,3 @@ data after stashing
 
 squash 1
 squash 3
-
-main commit 1 for cherry-pick
