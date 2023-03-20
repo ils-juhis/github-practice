@@ -35,6 +35,9 @@ squash 1
 squash 3
 
 
+changes in branch B1
+
+
 * changing for fetch
 change 1 local
 change 1 remote
