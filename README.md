@@ -35,6 +35,7 @@ squash 1
 squash 3
 
 
-changing for fetch
+* changing for fetch
 
-fetch change in remote
+
+
