@@ -37,5 +37,5 @@ squash 3
 
 * changing for fetch
 change 1 local
-
+change 1 remote
 
