@@ -39,3 +39,5 @@ squash 3
 change 1 local
 change 1 remote
 
+changes in branch B2
+
