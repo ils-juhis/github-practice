@@ -39,3 +39,4 @@ squash 3
 change 1 local
 change 1 remote
 
+git light weight tag
