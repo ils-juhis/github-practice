@@ -40,3 +40,11 @@ change 1 local
 change 1 remote
 
 git light weight tag
+git anotated weight tag
+
+commit1 
+commit2
+commit3
+
+
+c1
